@@ -1,4 +1,4 @@
-# PixivDownloader2.0
+# FHPixivDownloader2.0
 多地址自动下载的Pixiv爬虫2.0
 
 ## 引言
