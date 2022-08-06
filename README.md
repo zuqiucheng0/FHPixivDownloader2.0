@@ -20,4 +20,4 @@
 2. 位次：位次即一个artworks下的图片次序。以 ```https://www.pixiv.net/artworks/95254183``` 为例，作者放了五张图片，那这五张图片的位次就是0、1、2、3、4，如果你想要下载第2张图片，就复制这个链接，粘贴到urls.xml中r16标签下的p1标签内即可。
 
 
-## 详见：[Pixiv Python爬虫2.0](https://blog.ifhsj.top/archives/pixiv-python-pa-chong-20)
+> 详见：[Pixiv Python爬虫2.0](https://blog.ifhsj.top/archives/pixiv-python-pa-chong-20)
