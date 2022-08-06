@@ -18,3 +18,6 @@
 ## 对于 “类型” 和 “位次” 的说明
 1. 类型：图片类型分为三种，R18、R16、Uncategorized（不好区分类型的图片），每种类型的选择仅关系到图片保存的目录。
 2. 位次：位次即一个artworks下的图片次序。以 ```https://www.pixiv.net/artworks/95254183``` 为例，作者放了五张图片，那这五张图片的位次就是0、1、2、3、4，如果你想要下载第2张图片，就复制这个链接，粘贴到urls.xml中r16标签下的p1标签内即可。
+
+
+详见：[Pixiv Python爬虫2.0](https://blog.ifhsj.top/archives/pixiv-python-pa-chong-20)
