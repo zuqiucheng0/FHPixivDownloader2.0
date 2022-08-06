@@ -28,7 +28,7 @@ def getProxies():
  
 # 获取用户Cookie
 def getCookie():
-    cookie: str = input("输入Cookie（使用默认则不填）或 ”9“ 来结束爬虫：").strip()
+    cookie: str = input("输入Cookie（使用默认则不填）或 “9” 来结束爬虫：").strip()
  
     return originalCookie if cookie == "" else cookie
  
