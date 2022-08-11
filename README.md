@@ -1,6 +1,8 @@
 # FHPixivDownloader2.0
 多地址自动下载的Pixiv爬虫2.0
 
+> 详见：[Pixiv Python爬虫2.0](https://blog.ifhsj.top/archives/pixiv-python-pa-chong-20)
+
 ## 引言
 之前写过Pixiv爬虫，这次对爬虫进行了升级，增加了XML自动爬取功能，修复了一些BUG。之前的爬虫文章地址：[Pixiv Python爬虫](https://blog.ifhsj.top/archives/pixiv-python-pa-chong)。
 
@@ -35,6 +37,3 @@
 pip install fake_useragent -i https://pypi.doubanio.com/simple
 pip install requests -i https://pypi.doubanio.com/simple
 ```
-
-
-> 详见：[Pixiv Python爬虫2.0](https://blog.ifhsj.top/archives/pixiv-python-pa-chong-20)
