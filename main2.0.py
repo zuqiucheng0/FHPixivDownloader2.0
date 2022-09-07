@@ -125,7 +125,7 @@ def getUrl():
             if url == "9":
                 break
             elif not url.startswith("http"):
-                print("只能输入 ”9“ 或URL，重新输入")
+                print("只能输入 “9” 或URL，重新输入")
                 continue
             else:
                 urlList.append(url)
